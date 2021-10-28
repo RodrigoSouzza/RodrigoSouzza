@@ -1,6 +1,6 @@
 ### Olá, me chamo Rodrigo, sejam muito bem vindos(as) ao meu Github...👋
 - 🌱 Estudante do curso tecnico em desenvolvimento de sistemas
-
+##
 <div align="center">
   <a href="https://github.com/RodrigoSouzza">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RodrigoSouzza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
