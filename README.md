@@ -1,5 +1,8 @@
 ### Olá, me chamo Rodrigo, sejam muito bem vindos(as) ao meu Github...👋
 - 🌱 Estudante do curso tecnico em desenvolvimento de sistemas
+- 🇧🇷 Brasileiro 
+- 🏜️ Nordestino
+ 
 ##
 <div align="center">
   <a href="https://github.com/RodrigoSouzza">
