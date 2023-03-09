@@ -1,6 +1,6 @@
 ### Olá, me chamo Rodrigo, sejam muito bem vindos(as) ao meu Github...👋
-- 🌱 Estudante do curso tecnico em desenvolvimento de sistemas
-- 🇧🇷 Brasileiro 
+- 🌱Tecnico em desenvolvimento de sistemas
+- Brasileiro 
 - 🏜️ Nordestino
  
 ##
