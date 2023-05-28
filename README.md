@@ -1,4 +1,4 @@
-### Olá! me chamo Rodrigo, sejam muito bem vindos(as) ao meu Github...👋
+### Olá! me chamo Rodrigo, sejam muito bem vindos(as) ao meu Github!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - 🌱 Formado em desenvolvimento de sistemas
 - 📚 Atualmente estou buscando me aperfeiçoar em html css e javascript
 - 📫 Como me achar! [@RodrigoSouza](https://www.linkedin.com/in/rodrigoo-maciell/);
