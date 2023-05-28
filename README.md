@@ -1,8 +1,7 @@
-### Olá, me chamo Rodrigo, sejam muito bem vindos(as) ao meu Github...👋
-- 🌱Tecnico em desenvolvimento de sistemas
-- Brasileiro 
-- 🏜️ Nordestino
- 
+### Olá! me chamo Rodrigo, sejam muito bem vindos(as) ao meu Github...👋
+- 🌱 Formado em desenvolvimento de sistemas
+- 📚 Atualmente estou buscando me aperfeiçoar em html css e javascript
+- 📫 Como me achar! [@RodrigoSouza](https://www.linkedin.com/in/rodrigoo-maciell/);
 ##
 <div align="center">
   <a href="https://github.com/RodrigoSouzza">
