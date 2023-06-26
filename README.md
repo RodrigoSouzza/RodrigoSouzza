@@ -11,17 +11,18 @@ Busco uma oportunidade de ingressar na carreira, caso você possa me ajudar, fiq
 📫 Como me achar! [@RodrigoSouza](https://www.linkedin.com/in/rodrigoo-maciell/);
  
  # 💻 Minhas Stacks
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![JavaScript](https://img.shields.io/badge/javascript-DAA520.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E)
-![Git](https://img.shields.io/badge/Git-%23000000.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-8A2BE2.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-CD5C5C.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-%23026AA7.svg?style=for-the-badge&logo=Vscode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-%23026AA7.svg?style=for-the-badge&logo=Vscode&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Photoshop](https://img.shields.io/badge/photoshop-%23026AA7.svg?style=for-the-badge&logo=photoshop&logoColor=white)
+![Photoshop](https://img.shields.io/badge/photoshop-008B8B.svg?style=for-the-badge&logo=photoshop&logoColor=white)
 ![Canvas](https://img.shields.io/badge/Canvas-%23026AA7.svg?style=for-the-badge&logo=Canvas&logoColor=white)
 
  # 🌐 Sociais
