@@ -1,12 +1,14 @@
 # Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-  Me chamo Rodrigo, um entusiasta da tecnologia que deu o primeiro passo no mundo da programação em 2021. 
+  Me chamo Rodrigo, um entusiasta da tecnologia que deu seus primeiros passos no mundo da programação em 2021. 
   Desde então, minha jornada tem sido dedicada a explorar e aprofundar meus conhecimentos em desenvolvimento front-end.
 
 #  Interesses 📚
-Minha paixão por criar interfaces envolventes e funcionais me motiva a buscar constantemente novas habilidades e conhecimentos. Estou empenhado em me tornar o melhor que posso ser e estou sempre ansioso para novos desafios..
-Atualmente estudo <strong>Javascript, html e css </strong>, para me tornar o mais capacitado possível. <br/> Tenho conhecimentos básicos em algumas linguagens como cito logo abaixo, porém meu foco hoje são essas três.
-No meu github, você encontrará projetos que refletem minha jornada de aprendizado e paixão pelo desenvolvimento front-end. Estou em busca de oportunidades para colaborar e contribuir para projetos incríveis.
+Meu desejo em criar interfaces envolventes e funcionais me motiva a buscar constantemente novas habilidades e conhecimentos. Estou empenhado em me tornar o melhor que posso ser e estou sempre ansioso para novos desafios...  
+
+Atualmente estudo <strong>javascript, html e css </strong>, para me tornar o mais capacitado possível. Tenho conhecimentos básicos em algumas linguagens como cito logo abaixo, porém meu foco hoje são essas três.
+
+No meu github, você encontrará projetos que refletem minha jornada de aprendizado e paixão pelo desenvolvimento front-end. Estou em busca de oportunidades profissionais para colaborar e contribuir para projetos incríveis.
 
 📫 Como me achar! [@RodrigoSouza](https://www.linkedin.com/in/rodrigoo-maciell/);
  
