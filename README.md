@@ -37,7 +37,5 @@ No meu github, você encontrará projetos que refletem minha jornada de aprendiz
   <a href="https://github.com/RodrigoSouzza">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RodrigoSouzza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSouzza&layout=compact&langs_count=7&theme=dark"/>
-</div>   
- 
-  ![Snake animation](https://github.com/RodrigoSouzza/RodrigoSouzza/blob/output/github-contribution-grid-snake.svg)
+</div>
  
