@@ -4,7 +4,7 @@
   Desde então, minha jornada tem sido dedicada a explorar e aprofundar meus conhecimentos em desenvolvimento front-end.
 
 #  Interesses 📚
-Meu desejo em criar interfaces envolventes e funcionais me motiva a buscar constantemente novas habilidades e conhecimentos. Estou empenhado em me tornar o melhor que posso ser e estou sempre ansioso para novos desafios...  
+Minha vontade e desejo em criar "coisas" me motiva a buscar constantemente novas habilidades e conhecimentos. Estou empenhado em me tornar o melhor que posso ser e estou sempre ansioso para novos desafios...  
 
 Atualmente estudo <strong>javascript, html e css </strong>, para me tornar o mais capacitado possível. Tenho conhecimentos básicos em algumas linguagens como cito logo abaixo, porém meu foco hoje são essas três.
 
