@@ -2,6 +2,9 @@
 
   Me chamo Rodrigo, um entusiasta da tecnologia que deu seus primeiros passos no mundo da programação em 2021. 
   Desde então, minha jornada tem sido dedicada a explorar e aprofundar meus conhecimentos em desenvolvimento front-end.
+  
+  📚 <strong>Formado em desenvolvimento de sistemas</strong> - ETE Ariano Vilar Suassuno - 2022         
+  📚 <strong>Cursando Engenharia de software</strong> - Centro Universitário Leonardo da Vinci Uniasselvi 
 
 #  Interesses 📚
 Minha vontade e desejo em criar "coisas" me motiva a buscar constantemente novas habilidades e conhecimentos. Estou empenhado em me tornar o melhor que posso ser e estou sempre ansioso para novos desafios...  
