@@ -16,7 +16,8 @@ No meu github, você encontrará projetos que refletem minha jornada de aprendiz
 📫 Como me achar! [@RodrigoSouza](https://www.linkedin.com/in/rodrigoo-maciell/);
  
  # 💻 Conhecimentos
-![JavaScript](https://img.shields.io/badge/javascript-DAA520.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![JavaScript](https://img.shields.io/badge/javascript-DAA520.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=%61DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E)
