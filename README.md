@@ -17,14 +17,18 @@ No meu github, você encontrará projetos que refletem minha jornada de aprendiz
  
  # 💻 Conhecimentos
 ![JavaScript](https://img.shields.io/badge/javascript-DAA520.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=%61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-3178C6.svg?style=for-the-badge&logo=react&logoColor=%61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-CD5C5C.svg?style=for-the-badge&logo=next.js&logoColor=%61DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TAILWIND](https://img.shields.io/badge/tailwind-%231572B6.svg?style=for-the-badge&logo=tailwind&logoColor=white) 
+![PHP Version](https://img.shields.io/badge/php-8A2BE2.svg?style=for-the-badge&logo=php&logoColor=white)
+![LARAVEL](https://img.shields.io/badge/laravel-CD5C5C.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-8A2BE2.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-CD5C5C.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-CD5C5C.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
  # 🌐 Conecte-se comigo!
   <a href="https://www.instagram.com/rodrigo.souzaa_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
